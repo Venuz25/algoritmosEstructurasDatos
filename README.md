@@ -1,15 +1,25 @@
-# Algoritmos y Estructuras de Datos
-Prácticas de la materia de Algoritmos y Estructuras de Datos  
-_Profra. Cecilia Alborante Morato_
+<div align="center">
+  <table style="border: none; width: auto;">
+    <tr>
+      <td style="border: none; vertical-align: middle;"><img src="https://www.escom.ipn.mx/x/ee2021/images/galeriaEE2021/escudo_ESCOM.png" width="200" alt="Logo"></td>
+      <td style="border: none; vertical-align: middle; text-align: left;">
+        <h1>Algoritmos y Estructuras de Datos</h1>
+        <p>Prácticas de la materia de Algoritmos y Estructuras de Datos</p>
+        <p><em>Profra. Cecilia Alborante Morato</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
------------
+---
 
-## Prácticas
-- Práctica 1: **ORDENAMIENTO POR INSERCIÓN**
-- Práctica 2: **ORDENAMIENTO POR INSERCIÓN, BURBUJA, SELECCIÓN Y MEZCLA**
-- Práctica 3: **Exploración Exhaustiva: PROBLEMA DE LA MOCHILA**
-- Práctica 4: **LISTAS ENLAZADAS**
-- Práctica 5: **PILAS**
-- Práctica 6: **COLAS**
-- Práctica 7: **LISTAS DOBLEMENTE ENLAZADAS**
-- Práctica 8: **ARBOLES BINARIOS**
+<div align="center">
+  <p>
+    <strong>Escuela Superior de Cómputo (ESCOM)</strong> | Instituto Politécnico Nacional (IPN)
+  </p>
+  <p>
+    © 2026 - Repositorio académico de prácticas. 
+    <br>
+    Autor: <a href="https://github.com/[Tu_Usuario]">Areli Guevara</a>
+  </p>
+</div>
